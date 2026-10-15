@@ -1,5 +1,3 @@
-[
-
 {
 "csv_relative_url": "Olist-business-analysis/refs/heads/master/Original%20data/olist_customers_dataset.csv",
 "file_name":"olist_customers_dataset"
@@ -36,5 +34,3 @@
 "csv_relative_url": "Olist-business-analysis/refs/heads/master/Original%20data/product_category_name_translation.csv",
 "file_name":"product_category_name_translation"
 }
-
-]
